@@ -22,7 +22,7 @@ MainSection:NewButton("Prison life admin", "give's you admin", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))() --not mine but fun
 end)
 
-MainSection:NewButton("Prison life admin", "give's you admin", function()
+MainSection:NewButton("Prison life fun", "give's you fun stuff", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GIH-LOL/notMadeBYme/main/PrisonLife"))()  -- not mine just wanted to add it 
 end)
 
