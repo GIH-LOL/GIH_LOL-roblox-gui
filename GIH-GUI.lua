@@ -19,7 +19,7 @@ end)
 
 
 MainSection:NewButton("Prison life admin", "give's you admin", function()
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))() --not mine but fun
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))() --not mine but fun -- and code at https://septex.xyz/getkey.php
 end)
 
 MainSection:NewButton("Prison life fun", "give's you fun stuff", function()
