@@ -46,11 +46,25 @@ end)
 local MoreStuff = Window:NewTab("More")
 local More = MoreStuff:NewSection("moreshh")
 
+
 More:NewButton("Infinite Yield", "FE admin", function()
     loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Infinite%20Yield.txt"))()  -- not mine but fun
 end)
 
 
+More:NewButton("Counter Blox Script", "STUFF", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Zakamano/Jappi/main/Japapi", true))()  -- not mine but fun
+end)
+
+
+More:NewButton("Energy Assault Script", "ea sports lol jk", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))()  -- not mine but fun
+end)
+
+
+More:NewButton("Westbound Script", "a lot of shiiii", function()
+    loadstring(game.HttpGet(game, "https://raw.githubusercontent.com/Exunys/westbound.pro-Utilites/main/Main.lua"))()  -- not mine but fun
+end)
 
 
 
