@@ -32,6 +32,11 @@ MainSection:NewButton("Da Hood Script", "does a lot", function()
 end)
 
 
+MainSection:NewButton("Da Hood Script2", "does a lot", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002"))()  -- not mine just wanted to add it 
+end)
+
+
 MainSection:NewButton("prison life a lot of fun", "does a lot", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-Clubs-Prison-Life-REMASTERED-SCRIPT/main/Main", true))()  -- not mine just wanted to add it 
 end)
