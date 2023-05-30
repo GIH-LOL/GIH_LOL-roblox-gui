@@ -42,6 +42,11 @@ MainSection:NewButton("prison life a lot of fun", "does a lot", function()
 end)
 
 
+MainSection:NewButton("Roblox Ohio Script", "does a lot", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/rxn-xyz/Ohio./main/Ohio.lua",true))()  -- not mine just wanted to add it 
+end)
+
+
 --more
 local MoreStuff = Window:NewTab("More")
 local More = MoreStuff:NewSection("moreshh")
