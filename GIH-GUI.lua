@@ -27,6 +27,11 @@ MainSection:NewButton("Prison life fun", "give's you fun stuff", function()
 end)
 
 
+MainSection:NewButton("Da Hood Script", "does a lot", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002"))()  -- not mine just wanted to add it 
+end)
+
+
 --more
 local MoreStuff = Window:NewTab("More")
 local More = MoreStuff:NewSection("moreshh")
