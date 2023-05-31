@@ -2,7 +2,7 @@
 -- some skripts are made by other ppl with
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()  --so it looks nice!
-local Window = Library.CreateLib("GIH_LOL's GUI V1.2", "Ocean")
+local Window = Library.CreateLib("GIH_LOL's GUI", "Ocean")
 
 -- MAIN
 local Main = Window:NewTab("Main")
