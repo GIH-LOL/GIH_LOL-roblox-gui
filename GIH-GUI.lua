@@ -47,19 +47,6 @@ MainSection:NewButton("Roblox Ohio Script", "does a lot", function()
 end)
 
 
---da hood
-local DaHood = Window:NewTab("da")
-local DaHooD = MoreStuff:NewSection("Dah")
-
- DaHooD:NewButton("Da Hood Script", "does a lot", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002"))()  -- not mine just wanted to add it 
-end)
-
-
- DaHooD:NewButton("Da Hood Script2", "does a lot", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/FadedLock/main/YesEpic"))()  -- not mine just wanted to add it 
-end)
-
 --more
 local MoreStuff = Window:NewTab("More")
 local More = MoreStuff:NewSection("moreshh")
