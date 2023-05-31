@@ -5,12 +5,6 @@ for fun
 
 heres the code
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GIH-LOL/GIH_LOL-roblox-gui/main/GIH-GUI.lua%22))()
-
-.
-
-or this 
-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GIH-LOL/GIH_LOL-roblox-gui/main/GIH-GUI.lua'))()
 
 .
