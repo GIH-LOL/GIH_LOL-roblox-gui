@@ -9,10 +9,6 @@ local Main = Window:NewTab("Main")
 local MainSection = Main:NewSection("MainSection1")
 
 
-
-
-
-
 MainSection:NewButton("OpenGIH menu1", "opens a menu with more stuff : )", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/GIH-LOL/Rmenu1/main/GIHmenu1"))()  -- its a mix
 end)
