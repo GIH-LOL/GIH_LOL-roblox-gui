@@ -68,6 +68,10 @@ More:NewButton("Westbound Script", "a lot of shiiii", function()
 end)
 
 
+More:NewButton("MM2 num1", "a lot of shiiii", function()
+    loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()  -- not mine but fun
+end)
+
 
 
 --Local Player
